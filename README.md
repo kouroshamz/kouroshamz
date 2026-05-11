@@ -2,7 +2,7 @@
 
 I build AI and data systems that pay for themselves — for operations-heavy businesses where messy real-world data is costing money every day.
 
-Founder of **Deep Network Solutions Ltd** · Co-founder of **Finnlytics** (Axentara, NHS surgical inventory).
+Founder of **Deep Network Solutions Ltd** · Co-founder of **Finnlytics**.
 
 ---
 
@@ -13,7 +13,6 @@ Founder of **Deep Network Solutions Ltd** · Co-founder of **Finnlytics** (Axent
 - **MongoDB → Redshift migration** — analytical throughput up **10×**.
 - **Jira automation** — **70% manual triage time removed**.
 - **Geo-classification** — flagged high-risk supply-chain dwell zones before incidents.
-- **Axentara** (Finnlytics) — computer vision + BLE surgical inventory system, in trial with NHS hospital trusts. iOS · FastAPI · YOLOv8.
 
 #### Stack
 
@@ -30,4 +29,4 @@ I run paid **two-week AI Opportunity Audits** (£2,500 fixed) that map your data
 
 Currently taking on 1–2 new engagements. UK and remote globally.
 
-📩 amouzgarkourosh@gmail.com · 🔗 [linkedin.com/in/kourosh-amouzgar-5976051a1](https://www.linkedin.com/in/kourosh-amouzgar-5976051a1)
+🌐 [kouroshamouzgar.com](https://kouroshamouzgar.com) · 📩 amouzgarkourosh@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/kourosh-amouzgar-5976051a1) · 📅 [30-min call](https://calendly.com/amouzgarkourosh/30min)
