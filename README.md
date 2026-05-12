@@ -29,4 +29,4 @@ I run paid **two-week AI Opportunity Audits** (£2,500 fixed) that map your data
 
 Currently taking on 1–2 new engagements. UK and remote globally.
 
-🌐 [kouroshamouzgar.com](https://kouroshamouzgar.com) · 📩 amouzgarkourosh@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/kourosh-amouzgar-5976051a1) · 📅 [30-min call](https://calendly.com/amouzgarkourosh/30min)
+🌐 [kouroshamouzgar.com](https://kouroshamouzgar.com) · 📩 amouzgarkourosh@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/kouroshamouzgar) · 📅 [30-min call](https://calendly.com/amouzgarkourosh/30min)
